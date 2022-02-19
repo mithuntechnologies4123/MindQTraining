@@ -5,6 +5,7 @@ public class insurance {
 		// TODO Auto-generated method stub
 
 		System.out.println("HEllo world");
+		System.out.println("HEllo world");
 	}
 
 }
